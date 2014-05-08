@@ -1,0 +1,9 @@
+Date,Symbol,Ratio,Problems,Usable flag,Last update
+7/13/2007,AAPL,0.5,,true,8/11/2010
+6/21/2010,XOM,0.33333,,true,8/11/2010
+1/2/2006,AAPL,0.6667,,true,8/11/2010
+7/13/1999,AAPL,0.5,1/2/2010;conflicting data,false,8/11/2010
+7/13/2010,BAC,0.5,,true,8/11/2010
+2/13/2005,AAPL,0.5,1/2/2009;failed to retrieve;2/3/2010;failed to retrieve,true,8/11/2010
+
+

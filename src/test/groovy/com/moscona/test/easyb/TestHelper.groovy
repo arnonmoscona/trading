@@ -4,6 +4,7 @@ import com.moscona.exceptions.InvalidArgumentException
 import com.moscona.test.util.TestResourceHelper
 import com.moscona.trading.persistence.SplitsDb
 import org.apache.commons.io.FileUtils
+import org.apache.commons.lang3.StringUtils
 
 /**
  * Created by Arnon on 5/6/2014.

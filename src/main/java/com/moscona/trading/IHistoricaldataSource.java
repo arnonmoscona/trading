@@ -13,7 +13,7 @@ import java.util.concurrent.TimeoutException;
 /**
  * Created by Arnon on 5/5/2014.
  * An interface for a data source for historical
- * Refactored from another project
+ * Refactored from another project (originally IDailyDataSource)
  */
 public interface IHistoricalDataSource {
     /**

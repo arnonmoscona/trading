@@ -1,0 +1,520 @@
+symbol,count,date,source,comments
+A,348045,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+BLL,84599,02/08/2011,manual,test case for post-split estimate adjustment
+AA,1063715,07/08/2011,IQFeed,unverified
+AAPL,924755,07/08/2011,IQFeed,unverified
+ABC,273963,07/08/2011,IQFeed,unverified
+ABT,1554283,07/08/2011,IQFeed,unverified
+ACE,337402,07/08/2011,IQFeed,unverified
+ADBE,504459,07/08/2011,IQFeed,unverified
+ADI,299634,07/08/2011,IQFeed,unverified
+ADM,637880,07/08/2011,IQFeed,unverified
+ADP,499705,07/08/2011,IQFeed,unverified
+ADSK,227900,07/08/2011,IQFeed,unverified
+AEE,241149,07/08/2011,IQFeed,unverified
+AEP,481791,07/08/2011,IQFeed,unverified
+AES,782008,07/08/2011,IQFeed,unverified
+AET,379500,07/08/2011,IQFeed,unverified
+AFL,467705,07/08/2011,IQFeed,unverified
+AGN,304783,07/08/2011,IQFeed,unverified
+AIG,1896748,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+AIV,119510,07/08/2011,IQFeed,unverified
+AIZ,96507,07/08/2011,IQFeed,unverified
+AKAM,186707,07/08/2011,IQFeed,unverified
+AKS,110251,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+ALL,522961,07/08/2011,IQFeed,unverified
+ALTR,322224,07/08/2011,IQFeed,unverified
+AMAT,1318250,07/08/2011,IQFeed,unverified
+AMD,687544,07/08/2011,IQFeed,unverified
+AMGN,929731,07/08/2011,IQFeed,unverified
+AMP,242285,07/08/2011,IQFeed,unverified
+AMT,396631,07/08/2011,IQFeed,unverified
+AMX,2722083,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+AMZN,452043,07/08/2011,IQFeed,unverified
+AN,147887,07/08/2011,IQFeed,unverified
+ANF,87229,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+AON,330541,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+APA,383447,07/08/2011,IQFeed,unverified
+APC,497521,07/08/2011,IQFeed,unverified
+APD,211897,07/08/2011,IQFeed,unverified
+APH,176155,07/08/2011,IQFeed,unverified
+APOL,137756,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+ARG,78499,07/08/2011,IQFeed,unverified
+ATI,98970,07/08/2011,IQFeed,unverified
+AVB,87317,07/08/2011,IQFeed,unverified
+AVP,430188,07/08/2011,IQFeed,unverified
+AVY,106875,07/08/2011,IQFeed,unverified
+AXP,1202154,07/08/2011,IQFeed,unverified
+AZO,42210,07/08/2011,IQFeed,unverified
+BA,738275,07/08/2011,IQFeed,unverified
+BAC,10132963,07/08/2011,IQFeed,unverified
+BAX,570378,07/08/2011,IQFeed,unverified
+BBBY,250063,07/08/2011,IQFeed,unverified
+BBT,696467,07/08/2011,IQFeed,unverified
+BBY,389520,07/08/2011,IQFeed,unverified
+BCR,85655,07/08/2011,IQFeed,unverified
+BDX,218752,07/08/2011,IQFeed,unverified
+BEN,221859,07/08/2011,IQFeed,unverified
+BF.B,145185,07/08/2011,IQFeed,unverified
+BHI,434635,07/08/2011,IQFeed,unverified
+BIG,75189,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+BIIB,241632,07/08/2011,IQFeed,unverified
+BK,1241724,07/08/2011,IQFeed,unverified
+BLK,192294,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+BMC,176858,07/08/2011,IQFeed,unverified
+BMS,105334,07/08/2011,IQFeed,unverified
+BMY,1705988,07/08/2011,IQFeed,unverified
+BRCM,536100,07/08/2011,IQFeed,unverified
+BRK.B,2345353,07/08/2011,IQFeed,unverified
+BSX,1528206,07/08/2011,IQFeed,unverified
+BTU,270737,07/08/2011,IQFeed,unverified
+BXP,145596,07/08/2011,IQFeed,unverified
+C,2920644,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CA,506108,07/08/2011,IQFeed,unverified
+CAG,408891,07/08/2011,IQFeed,unverified
+CAH,350586,07/08/2011,IQFeed,unverified
+CAM,245020,07/08/2011,IQFeed,unverified
+CAT,644452,07/08/2011,IQFeed,unverified
+CB,292545,07/08/2011,IQFeed,unverified
+CBG,324987,07/08/2011,IQFeed,unverified
+CBS,668784,07/08/2011,IQFeed,unverified
+CCE,325023,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CCL,608277,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CE,156220,07/08/2011,IQFeed,unverified
+CEG,200703,07/08/2011,IQFeed,unverified
+CELG,462801,07/08/2011,IQFeed,unverified
+CEPH,76217,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CERN,168212,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CF,71298,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CFN,223437,07/08/2011,IQFeed,unverified
+CHK,657665,07/08/2011,IQFeed,unverified
+CHRW,165564,07/08/2011,IQFeed,unverified
+CI,270569,07/08/2011,IQFeed,unverified
+CINF,163070,07/08/2011,IQFeed,unverified
+CL,488894,07/08/2011,IQFeed,unverified
+CLF,135649,07/08/2011,IQFeed,unverified
+CLX,133335,07/08/2011,IQFeed,unverified
+CMA,176771,07/08/2011,IQFeed,unverified
+CMCSA,2766195,07/08/2011,IQFeed,unverified
+CME,67062,07/08/2011,IQFeed,unverified
+CMG,31119,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CMI,196243,07/08/2011,IQFeed,unverified
+CMS,252353,07/08/2011,IQFeed,unverified
+CNH,237400,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CNP,425411,07/08/2011,IQFeed,unverified
+CNX,226638,07/08/2011,IQFeed,unverified
+COF,459145,07/08/2011,IQFeed,unverified
+COG,104467,07/08/2011,IQFeed,unverified
+COH,293604,07/08/2011,IQFeed,unverified
+COL,154053,07/08/2011,IQFeed,unverified
+COP,1413507,07/08/2011,IQFeed,unverified
+COST,436860,07/08/2011,IQFeed,unverified
+COV,495733,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CPB,320229,07/08/2011,IQFeed,unverified
+CPWR,218250,07/08/2011,IQFeed,unverified
+CRM,133900,07/08/2011,IQFeed,unverified
+CROX,86631,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CSC,155090,07/08/2011,IQFeed,unverified
+CSCO,5500185,07/08/2011,IQFeed,unverified
+CSX,1102766,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CTAS,145303,07/08/2011,IQFeed,unverified
+CTL,600544,07/08/2011,IQFeed,unverified
+CTSH,304250,07/08/2011,IQFeed,unverified
+CTXS,187995,07/08/2011,IQFeed,unverified
+CVC,290711,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+CVH,148223,07/08/2011,IQFeed,unverified
+CVS,1355941,07/08/2011,IQFeed,unverified
+CVX,2010270,07/08/2011,IQFeed,unverified
+D,575798,07/08/2011,IQFeed,unverified
+DD,928707,07/08/2011,IQFeed,unverified
+DE,419709,07/08/2011,IQFeed,unverified
+DELL,1887170,07/08/2011,IQFeed,unverified
+DF,183130,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+DFS,545486,07/08/2011,IQFeed,unverified
+DGX,157349,07/08/2011,IQFeed,unverified
+DHI,319364,07/08/2011,IQFeed,unverified
+DHR,664056,07/08/2011,IQFeed,unverified
+DIS,1890154,07/08/2011,IQFeed,unverified
+DISCA,278565,07/08/2011,IQFeed,unverified
+DNB,49406,07/08/2011,IQFeed,unverified
+DNR,401887,07/08/2011,IQFeed,unverified
+DO,139027,07/08/2011,IQFeed,unverified
+DOV,186579,07/08/2011,IQFeed,unverified
+DOW,1175580,07/08/2011,IQFeed,unverified
+DPS,221363,07/08/2011,IQFeed,unverified
+DRI,136430,07/08/2011,IQFeed,unverified
+DTE,169346,07/08/2011,IQFeed,unverified
+DTV,767785,07/08/2011,IQFeed,unverified
+DUK,1331332,07/08/2011,IQFeed,unverified
+DV,68789,07/08/2011,IQFeed,unverified
+DVA,95500,07/08/2011,IQFeed,unverified
+DVN,423000,07/08/2011,IQFeed,unverified
+EBAY,1297899,07/08/2011,IQFeed,unverified
+ECL,231994,07/08/2011,IQFeed,unverified
+ED,292578,07/08/2011,IQFeed,unverified
+EFX,123071,07/08/2011,IQFeed,unverified
+EIX,325811,07/08/2011,IQFeed,unverified
+EK,268877,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+EL,196575,07/08/2011,IQFeed,unverified
+ELN,584800,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+EMC,2057568,07/08/2011,IQFeed,unverified
+EMN,71079,07/08/2011,IQFeed,unverified
+EMR,751671,07/08/2011,IQFeed,unverified
+ENL,346100,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+EOG,268435,07/08/2011,IQFeed,unverified
+EP,768967,07/08/2011,IQFeed,unverified
+EQR,294650,07/08/2011,IQFeed,unverified
+EQT,149430,07/08/2011,IQFeed,unverified
+ERTS,334316,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+ESRX,529454,07/08/2011,IQFeed,unverified
+ETFC,279701,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+ETN,341200,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+ETR,177968,07/08/2011,IQFeed,unverified
+EW,114679,07/08/2011,IQFeed,unverified
+EXC,662387,07/08/2011,IQFeed,unverified
+EXPD,212370,07/08/2011,IQFeed,unverified
+EXPE,273377,07/08/2011,IQFeed,unverified
+F,3782711,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+FAST,294861,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+FCX,947315,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+FDO,122301,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+FDX,315658,07/08/2011,IQFeed,unverified
+FE,418216,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+FFIV,80747,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+FHN,263335,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+FII,104609,07/08/2011,IQFeed,unverified
+FIS,305789,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+FISV,143611,07/08/2011,IQFeed,unverified
+FITB,918728,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+FLIR,159683,07/08/2011,IQFeed,unverified
+FLR,174282,07/08/2011,IQFeed,unverified
+FLS,55828,07/08/2011,IQFeed,unverified
+FMC,71740,07/08/2011,IQFeed,unverified
+FO,154164,07/08/2011,IQFeed,unverified
+FRX,286163,07/08/2011,IQFeed,unverified
+FSLR,86161,07/08/2011,IQFeed,unverified
+FTI,240327,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+FTR,995219,07/08/2011,IQFeed,unverified
+GAS,45545,07/08/2011,IQFeed,unverified
+GCI,240432,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+GD,372000,07/08/2011,IQFeed,unverified
+GE,10605447,07/08/2011,IQFeed,unverified
+GENZ,263669,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+GILD,787054,07/08/2011,IQFeed,unverified
+GIS,638405,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+GLW,1569906,07/08/2011,IQFeed,unverified
+GME,140700,07/08/2011,IQFeed,unverified
+GNW,490561,07/08/2011,IQFeed,unverified
+GOOG,322252,07/08/2011,IQFeed,unverified
+GPC,157321,07/08/2011,IQFeed,unverified
+GPS,584492,07/08/2011,IQFeed,unverified
+GR,124871,07/08/2011,IQFeed,unverified
+GS,517735,07/08/2011,IQFeed,unverified
+GT,244144,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+GWW,69271,07/08/2011,IQFeed,unverified
+HAL,915013,07/08/2011,IQFeed,unverified
+HAR,69898,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+HAS,136238,07/08/2011,IQFeed,unverified
+HBAN,863399,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+HCBK,526698,07/08/2011,IQFeed,unverified
+HCN,176757,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+HCP,406027,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+HD,1622070,07/08/2011,IQFeed,unverified
+HES,339747,07/08/2011,IQFeed,unverified
+HIG,445274,07/08/2011,IQFeed,unverified
+HNZ,321821,07/08/2011,IQFeed,unverified
+HOG,236272,07/08/2011,IQFeed,unverified
+HON,787008,07/08/2011,IQFeed,unverified
+HOT,195074,07/08/2011,IQFeed,unverified
+HP,106970,07/08/2011,IQFeed,unverified
+HPQ,2163931,07/08/2011,IQFeed,unverified
+HRB,305250,07/08/2011,IQFeed,unverified
+HRL,267207,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+HRS,127199,07/08/2011,IQFeed,unverified
+HSP,167775,07/08/2011,IQFeed,unverified
+HST,686131,07/08/2011,IQFeed,unverified
+HSY,225505,07/08/2011,IQFeed,unverified
+HUM,168394,07/08/2011,IQFeed,unverified
+IBM,1211200,07/08/2011,IQFeed,unverified
+ICE,73523,07/08/2011,IQFeed,unverified
+IFF,80385,07/08/2011,IQFeed,unverified
+IGT,299900,07/08/2011,IQFeed,unverified
+INTC,5302000,07/08/2011,IQFeed,unverified
+INTU,304000,07/08/2011,IQFeed,unverified
+IP,437219,07/08/2011,IQFeed,unverified
+IPG,488694,07/08/2011,IQFeed,unverified
+IR,331219,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+IRM,200690,07/08/2011,IQFeed,unverified
+ISRG,39288,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+ITT,184100,07/08/2011,IQFeed,unverified
+ITW,500049,07/08/2011,IQFeed,unverified
+IVZ,462072,07/08/2011,IQFeed,unverified
+JBL,218513,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+JCI,678449,07/08/2011,IQFeed,unverified
+JCP,229874,07/08/2011,IQFeed,unverified
+JDSU,220066,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+JEC,126811,07/08/2011,IQFeed,unverified
+JNJ,2741143,07/08/2011,IQFeed,unverified
+JNPR,533069,07/08/2011,IQFeed,unverified
+JNS,186198,07/08/2011,IQFeed,unverified
+JPM,3973685,07/08/2011,IQFeed,unverified
+JWN,218078,07/08/2011,IQFeed,unverified
+K,362876,07/08/2011,IQFeed,unverified
+KEY,950814,07/08/2011,IQFeed,unverified
+KFT,1757876,07/08/2011,IQFeed,unverified
+KIM,406930,07/08/2011,IQFeed,unverified
+KLAC,167903,07/08/2011,IQFeed,unverified
+KMB,392878,07/08/2011,IQFeed,unverified
+KMX,225898,07/08/2011,IQFeed,unverified
+KO,2289254,07/08/2011,IQFeed,unverified
+KR,620635,07/08/2011,IQFeed,unverified
+KSS,281089,07/08/2011,IQFeed,unverified
+L,408822,07/08/2011,IQFeed,unverified
+LEG,142896,07/08/2011,IQFeed,unverified
+LEN,186933,07/08/2011,IQFeed,unverified
+LH,100200,07/08/2011,IQFeed,unverified
+LIFE,178766,07/08/2011,IQFeed,unverified
+LLL,106128,07/08/2011,IQFeed,unverified
+LLTC,227734,07/08/2011,IQFeed,unverified
+LLY,1157666,07/08/2011,IQFeed,unverified
+LM,148776,07/08/2011,IQFeed,unverified
+LMT,347299,07/08/2011,IQFeed,unverified
+LNC,313468,07/08/2011,IQFeed,unverified
+LO,143705,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+LOW,1302070,07/08/2011,IQFeed,unverified
+LSI,605650,07/08/2011,IQFeed,unverified
+LTD,319451,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+LUK,244560,07/08/2011,IQFeed,unverified
+LUV,747959,07/08/2011,IQFeed,unverified
+LXK,79228,07/08/2011,IQFeed,unverified
+M,423747,07/08/2011,IQFeed,unverified
+MA,127240,07/08/2011,IQFeed,unverified
+MAR,359372,07/08/2011,IQFeed,unverified
+MAS,358100,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+MAT,347588,07/08/2011,IQFeed,unverified
+MCD,1037577,07/08/2011,IQFeed,unverified
+MCHP,190480,07/08/2011,IQFeed,unverified
+MCK,252120,07/08/2011,IQFeed,unverified
+MCO,227800,07/08/2011,IQFeed,unverified
+MDT,1069377,07/08/2011,IQFeed,unverified
+MEE,103100,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+MET,1057040,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+MGA,242052,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+MHP,304700,07/08/2011,IQFeed,unverified
+MHS,399799,07/08/2011,IQFeed,unverified
+MI,530522,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+MJN,204343,07/08/2011,IQFeed,unverified
+MKC,132497,07/08/2011,IQFeed,unverified
+MMC,548482,07/08/2011,IQFeed,unverified
+MMI,294985,07/08/2011,IQFeed,unverified
+MMM,710577,07/08/2011,IQFeed,unverified
+MO,2093387,07/08/2011,IQFeed,unverified
+MOLX,176002,07/08/2011,IQFeed,unverified
+MON,535979,07/08/2011,IQFeed,unverified
+MRK,3086585,07/08/2011,IQFeed,unverified
+MRO,712089,07/08/2011,IQFeed,unverified
+MS,1544658,07/08/2011,IQFeed,unverified
+MSFT,8432767,07/08/2011,IQFeed,unverified
+MSI,339530,07/08/2011,IQFeed,unverified
+MTB,120789,07/08/2011,IQFeed,unverified
+MU,1001471,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+MUR,193426,07/08/2011,IQFeed,unverified
+MWV,169687,07/08/2011,IQFeed,unverified
+MWW,129319,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+MYL,439251,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+NBL,176466,07/08/2011,IQFeed,unverified
+NBR,287365,07/08/2011,IQFeed,unverified
+NDAQ,176675,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+NEE,421960,07/08/2011,IQFeed,unverified
+NEM,487086,07/08/2011,IQFeed,unverified
+NFLX,52519,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+NFX,134475,07/08/2011,IQFeed,unverified
+NI,280083,07/08/2011,IQFeed,unverified
+NKE,474130,07/08/2011,IQFeed,unverified
+NOC,292720,07/08/2011,IQFeed,unverified
+NOV,421071,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+NRG,241089,07/08/2011,IQFeed,unverified
+NSC,353217,07/08/2011,IQFeed,unverified
+NSM,242834,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+NTAP,367872,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+NTRS,241803,07/08/2011,IQFeed,unverified
+NU,176777,07/08/2011,IQFeed,unverified
+NUE,316062,07/08/2011,IQFeed,unverified
+NVDA,600288,07/08/2011,IQFeed,unverified
+NVLS,89308,07/08/2011,IQFeed,unverified
+NWL,291200,07/08/2011,IQFeed,unverified
+NWSA,2626630,07/08/2011,IQFeed,unverified
+NYX,261200,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+ODP,277067,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+OI,164006,07/08/2011,IQFeed,unverified
+OKE,107120,07/08/2011,IQFeed,unverified
+OMC,281121,07/08/2011,IQFeed,unverified
+ORCL,5060516,07/08/2011,IQFeed,unverified
+ORLY,137870,07/08/2011,IQFeed,unverified
+OXY,812875,07/08/2011,IQFeed,unverified
+PAYX,361850,07/08/2011,IQFeed,unverified
+PBCT,358064,07/08/2011,IQFeed,unverified
+PBI,203853,07/08/2011,IQFeed,unverified
+PCAR,365469,07/08/2011,IQFeed,unverified
+PCG,397950,07/08/2011,IQFeed,unverified
+PCL,161933,07/08/2011,IQFeed,unverified
+PCLN,49152,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+PCP,143451,07/08/2011,IQFeed,unverified
+PCS,358761,07/08/2011,IQFeed,unverified
+PDCO,122876,07/08/2011,IQFeed,unverified
+PEG,505905,07/08/2011,IQFeed,unverified
+PEP,1580654,07/08/2011,IQFeed,unverified
+PFE,7901130,07/08/2011,IQFeed,unverified
+PFG,321319,07/08/2011,IQFeed,unverified
+PG,2791294,07/08/2011,IQFeed,unverified
+PGN,294527,07/08/2011,IQFeed,unverified
+PGR,655741,07/08/2011,IQFeed,unverified
+PH,162175,07/08/2011,IQFeed,unverified
+PHM,382812,07/08/2011,IQFeed,unverified
+PKI,112762,07/08/2011,IQFeed,unverified
+PKX,308132,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+PLD,454386,07/08/2011,manual,estimate. Unknown actuals as post merger numbers have not been released
+PLL,116120,07/08/2011,IQFeed,unverified
+PM,1778409,07/08/2011,IQFeed,unverified
+PNC,526283,07/08/2011,IQFeed,unverified
+PNW,109017,07/08/2011,IQFeed,unverified
+POM,225770,07/08/2011,IQFeed,unverified
+POT,855046,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+PPG,158152,07/08/2011,IQFeed,unverified
+PPL,577151,07/08/2011,IQFeed,unverified
+PRU,488000,07/08/2011,IQFeed,unverified
+PSA,170634,07/08/2011,IQFeed,unverified
+PWR,212173,07/08/2011,IQFeed,unverified
+PX,303381,07/08/2011,IQFeed,unverified
+PXD,116756,07/08/2011,IQFeed,unverified
+QCOM,1669532,07/08/2011,IQFeed,unverified
+QEP,176758,07/08/2011,IQFeed,unverified
+R,51343,07/08/2011,IQFeed,unverified
+RAI,582888,07/08/2011,IQFeed,unverified
+RCL,215128,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+RDC,127458,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+RF,1256468,07/08/2011,IQFeed,unverified
+RHI,146831,07/08/2011,IQFeed,unverified
+RHT,193024,07/08/2011,IQFeed,unverified
+RL,96187,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+ROK,144308,07/08/2011,IQFeed,unverified
+ROP,95897,07/08/2011,IQFeed,unverified
+ROST,117600,07/08/2011,IQFeed,unverified
+RRC,160704,07/08/2011,IQFeed,unverified
+RRD,207500,07/08/2011,IQFeed,unverified
+RSG,379250,07/08/2011,IQFeed,unverified
+RSH,106056,07/08/2011,IQFeed,unverified
+RTN,356180,07/08/2011,IQFeed,unverified
+RTP,1491798,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+S,2991696,07/08/2011,IQFeed,unverified
+SAI,357671,07/08/2011,IQFeed,unverified
+SAY,336744,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+SBUX,749600,07/08/2011,IQFeed,unverified
+SCG,128428,07/08/2011,IQFeed,unverified
+SCHW,1206730,07/08/2011,IQFeed,unverified
+SE,649890,07/08/2011,IQFeed,unverified
+SEE,160154,07/08/2011,IQFeed,unverified
+SHLD,108742,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+SHW,106464,07/08/2011,IQFeed,unverified
+SIAL,121827,07/08/2011,IQFeed,unverified
+SJM,115988,07/08/2011,IQFeed,unverified
+SLB,1356940,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+SLE,585101,07/08/2011,IQFeed,unverified
+SLM,527421,07/08/2011,IQFeed,unverified
+SNA,58197,07/08/2011,IQFeed,unverified
+SNDK,236700,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+SNI,168114,07/08/2011,IQFeed,unverified
+SO,849123,07/08/2011,IQFeed,unverified
+SPG,293303,07/08/2011,IQFeed,unverified
+SPLS,719466,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+SRCL,85849,07/08/2011,IQFeed,unverified
+SRE,239445,07/08/2011,IQFeed,unverified
+STI,536889,07/08/2011,IQFeed,unverified
+STJ,328850,07/08/2011,IQFeed,unverified
+STT,504039,07/08/2011,IQFeed,unverified
+STZ,190659,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+SUN,120622,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+SVU,212154,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+SWK,168113,07/08/2011,IQFeed,unverified
+SWN,347901,07/08/2011,IQFeed,unverified
+SWY,354100,07/08/2011,IQFeed,unverified
+SYK,388004,07/08/2011,IQFeed,unverified
+SYMC,755541,07/08/2011,IQFeed,unverified
+SYY,583479,07/08/2011,IQFeed,unverified
+T,5922000,07/08/2011,IQFeed,unverified
+TAP,186954,07/08/2011,IQFeed,unverified
+TDC,168800,07/08/2011,IQFeed,unverified
+TE,214937,07/08/2011,IQFeed,unverified
+TEG,78290,07/08/2011,IQFeed,unverified
+TER,185347,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+TGT,689145,07/08/2011,IQFeed,unverified
+THC,489553,07/08/2011,IQFeed,unverified
+TIE,180174,07/08/2011,IQFeed,unverified
+TIF,127713,07/08/2011,IQFeed,unverified
+TJX,386107,07/08/2011,IQFeed,unverified
+TLAB,363295,07/08/2011,IQFeed,unverified
+TMK,76056,07/08/2011,IQFeed,unverified
+TMO,383259,07/08/2011,IQFeed,unverified
+TROW,259750,07/08/2011,IQFeed,unverified
+TRV,418872,07/08/2011,IQFeed,unverified
+TSN,379512,07/08/2011,IQFeed,unverified
+TSO,143174,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+TSS,192652,07/08/2011,IQFeed,unverified
+TTM,538272,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+TWC,336402,07/08/2011,IQFeed,unverified
+TWX,1070821,07/08/2011,IQFeed,unverified
+TXN,1161169,07/08/2011,IQFeed,unverified
+TXT,276620,07/08/2011,IQFeed,unverified
+TYC,468942,07/08/2011,IQFeed,unverified
+UA,50904,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+UBS,3830873,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+UNH,1083438,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+UNM,307798,07/08/2011,IQFeed,unverified
+UNP,490521,07/08/2011,IQFeed,unverified
+UPS,986214,07/08/2011,IQFeed,unverified
+URBN,162255,07/08/2011,IQFeed,unverified
+USB,1926650,07/08/2011,IQFeed,unverified
+UTX,915262,07/08/2011,IQFeed,unverified
+V,830071,07/08/2011,IQFeed,unverified
+VAR,117190,07/08/2011,IQFeed,unverified
+VFC,109398,07/08/2011,IQFeed,unverified
+VIA.B,585117,07/08/2011,IQFeed,unverified
+VIP,1628199,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+VLO,570250,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+VMC,129107,07/08/2011,IQFeed,unverified
+VNO,184240,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+VRSN,168472,07/08/2011,IQFeed,unverified
+VTR,163121,07/08/2011,IQFeed,unverified
+VZ,2829078,07/08/2011,IQFeed,unverified
+WAG,915459,07/08/2011,IQFeed,unverified
+WAT,91639,07/08/2011,IQFeed,unverified
+WDC,232402,07/08/2011,IQFeed,unverified
+WEC,233746,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+WFC,5289099,07/08/2011,IQFeed,unverified
+WFM,175713,07/08/2011,IQFeed,unverified
+WFMI,173565,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+WFR,230310,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+WHR,76225,07/08/2011,IQFeed,unverified
+WIN,509971,07/08/2011,IQFeed,unverified
+WIT,2441683,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+WLP,367163,07/08/2011,IQFeed,unverified
+WM,474200,07/08/2011,IQFeed,unverified
+WMB,588146,07/08/2011,IQFeed,unverified
+WMT,3491199,07/08/2011,IQFeed,unverified
+WPI,126479,07/08/2011,IQFeed,unverified
+WPO,8153,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+WU,632264,07/08/2011,IQFeed,unverified
+WY,538583,07/08/2011,manual,triangulated IQFeed Fidelity Bloomberg. Not authoritative
+WYN,169982,07/08/2011,IQFeed,unverified
+WYNN,124758,07/08/2011,IQFeed,unverified
+X,143768,07/08/2011,IQFeed,unverified
+XEL,484176,07/08/2011,IQFeed,unverified
+XL,309415,07/08/2011,IQFeed,unverified
+XLNX,265625,07/08/2011,IQFeed,unverified
+XOM,4926086,07/08/2011,IQFeed,unverified
+XRAY,140775,07/08/2011,IQFeed,unverified
+XRX,1401186,07/08/2011,IQFeed,unverified
+YHOO,1302941,07/08/2011,IQFeed,unverified
+YUM,465566,07/08/2011,IQFeed,unverified
+ZION,183825,07/08/2011,IQFeed,unverified
+ZMH,191961,07/08/2011,IQFeed,unverified

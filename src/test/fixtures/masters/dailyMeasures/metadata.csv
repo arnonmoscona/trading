@@ -1,0 +1,3 @@
+Measure,File,Last date,Last update,Available,Description,Measure group name,Sensitivity
+zeroCrossCount,zero cross count.measure.csv,10/22/2010,10/23/2010 03:01:34.87,TRUE,number of times INT.X close crosses zero [OLD],variability [OLD],
+reversalCount,reversal count.0.1.measure.csv,10/22/2010,10/23/2010 03:01:35.87,TRUE,number of times INT.X reverses direction with sensitivity of 0.1% [OLD],variability [OLD],0.1

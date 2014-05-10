@@ -5,7 +5,7 @@ import com.moscona.exceptions.InvalidArgumentException;
 
 /**
  * Created by Arnon on 5/5/2014.
- * Note: refactored from another project. Perhaps not the cleanest design. The original project was very performance focused
+ * Note: refactored from another project. Perhaps not the cleanest design. The original project was very monitoring focused
  * and used arrays whenever possible. This focus may reemerge in this context as well, and so both for ease of code
  * refactoring as well as for keeping it consistent with the original (mostly), I am not redesigning this class.
  */

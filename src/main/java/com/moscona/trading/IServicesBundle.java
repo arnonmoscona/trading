@@ -2,7 +2,7 @@ package com.moscona.trading;
 
 import com.moscona.exceptions.InvalidArgumentException;
 import com.moscona.util.IAlertService;
-import com.moscona.util.IStatsService;
+import com.moscona.util.monitoring.stats.IStatsService;
 import com.moscona.util.app.lifecycle.EventBase;
 import net.engio.mbassy.bus.IMBassador;
 

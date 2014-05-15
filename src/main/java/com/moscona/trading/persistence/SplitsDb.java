@@ -20,6 +20,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * Specification is in the data collector requirements document draft 5 8/11/2010 or later
  */
 public class SplitsDb {
+    // FIXME SplitsDB should be defined by an interface for ease of mocking
     public static double MIN_RATIO_DIFFERENCE = 0.000001d;
 
     private String dbPath = null;

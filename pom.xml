@@ -7,8 +7,28 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>trading</name>
-    <url>http://maven.apache.org</url>
+    <name>com.moscona.common.trading</name>
+    <url>https://github.com/arnonmoscona/trading</url>
+    <description>
+        Base trading related classes for com.moscona - not specific to any integration
+    </description>
+    <licenses><license>
+        <name>Apache Licence Version 2.0</name>
+        <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+    </license></licenses>
+    <developers>
+        <developer>
+            <name>Arnon Moscona</name>
+            <url>https://github.com/arnonmoscona</url>
+            <id>arnonmoscona</id>
+        </developer>
+    </developers>
+    <scm>
+        <url>scm:git:git@github.com:arnonmoscona/trading.git</url>
+    </scm>
+    <issueManagement>
+        <url>http://moscona.myjetbrains.com/youtrack/issues/TR</url>
+    </issueManagement>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

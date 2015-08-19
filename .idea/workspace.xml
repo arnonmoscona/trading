@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e505c8cd-b2ab-4c1f-aa8d-e9fcec3ccef6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/elements/Bar.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/elements/Bar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/streaming/HeavyTickStreamRecord.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/streaming/HeavyTickStreamRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/elements/IBar.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/elements/IBar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/IConfigInitializable.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/IConfigInitializable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/elements/ICumulativeBar.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/elements/ICumulativeBar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/IServiceBundleManagerConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/IServiceBundleManagerConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/IServicesBundle.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/IServicesBundle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/IServicesBundleManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/IServicesBundleManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/IServicesClient.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/IServicesClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/ITickStreamRecord.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/ITickStreamRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/formats/deprecated/MarketTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/formats/deprecated/MarketTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/easyb/MarketTreeStory.story" afterPath="$PROJECT_DIR$/src/test/easyb/MarketTreeStory.story" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/com/moscona/test/easyb/MarketTreeTestHelper.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/com/moscona/test/easyb/MarketTreeTestHelper.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/formats/deprecated/MasterTree.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/formats/deprecated/MasterTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/easyb/MasterTreeStory.story" afterPath="$PROJECT_DIR$/src/test/easyb/MasterTreeStory.story" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/excptions/MissingSymbolException.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/excptions/MissingSymbolException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/com/moscona/test/easyb/MockTime.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/com/moscona/test/easyb/MockTime.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/ServicesBundle.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/ServicesBundle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/ServicesBundleManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/ServicesBundleManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/easyb/SplitsDBStory.story" afterPath="$PROJECT_DIR$/src/test/easyb/SplitsDBStory.story" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/persistence/SplitsDb.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/persistence/SplitsDb.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/elements/SymbolChart.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/elements/SymbolChart.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/com/moscona/test/easyb/TestHelper.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/com/moscona/test/easyb/TestHelper.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/streaming/TickStreamRecord.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/streaming/TickStreamRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/easyb/TickStreamRecordStory.story" afterPath="$PROJECT_DIR$/src/test/easyb/TickStreamRecordStory.story" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/elements/TimeSlotBar.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/elements/TimeSlotBar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/easyb/TimeSlotBarStory.story" afterPath="$PROJECT_DIR$/src/test/easyb/TimeSlotBarStory.story" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/moscona/trading/streaming/TimeSlotBarWithTimeStamp.java" afterPath="$PROJECT_DIR$/src/main/java/com/moscona/trading/streaming/TimeSlotBarWithTimeStamp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shippable.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trading.iml" afterPath="$PROJECT_DIR$/trading.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="trading.iws" />
@@ -104,8 +71,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.94899815">
-              <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.9489051">
+              <caret line="124" column="21" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
               <folding>
                 <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
               </folding>
@@ -762,6 +729,9 @@
     </option>
     <option name="fileTypes" value="class;svn-base;svn-work;Extra;gif;png;jpg;jpeg;bmp;tga;tiff;ear;war;zip;jar;iml;iws;ipr;bz2;gz;" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e505c8cd-b2ab-4c1f-aa8d-e9fcec3ccef6" name="Default" comment="" />
@@ -769,34 +739,34 @@
       <option name="number" value="Default" />
       <updated>1390241351408</updated>
       <workItem from="1390241355341" duration="28000" />
-      <workItem from="1439783759743" duration="129000" />
+      <workItem from="1439783759743" duration="813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157000" />
+    <option name="totallyTimeSpent" value="841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2182" height="1406" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Amazon EC2" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Metrics" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Apiary Blueprint Manager" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Apiary Blueprint Manager" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -808,9 +778,9 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="reVu" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -821,7 +791,10 @@
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -854,8 +827,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94899815">
-          <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.9489051">
+          <caret line="124" column="21" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
           <folding>
             <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
           </folding>
